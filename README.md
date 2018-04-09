@@ -18,7 +18,7 @@ In about 90 minutes we will justify the concept and contents of R packages, illu
 
 ## Preparation
 
-First of all, do yourself a favour and download the slides before the course starts. You can get the 6.4 MB large file [here](LINK TO ADD). Don't worry, we will not talk through all 98 slides. 
+First of all, do yourself a favour and download the slides before the course starts. You can get the 6.4 MB large file [here](https://github.com/R-Lum/EGU2018/blob/master/R_course_egu_2018.html.zip?raw=true). Don't worry, we will not talk through all 98 slides. 
 
 Second, and even more important, please make sure you have the following things installed at their latest version:
 
