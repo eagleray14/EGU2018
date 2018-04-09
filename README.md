@@ -1,6 +1,4 @@
-# EGU 2018 short course 
-
-**"Building and maintaining R packages"** <br> Wed, 11 Apr, 13:30–15:00 / Room -2.16
+Wed, 11 Apr, 13:30–15:00 / Room -2.16
 
 ## Welcome 
 
