@@ -8,7 +8,7 @@ Welcome to the EGU 2018 short course on "Building and maintaining R packages". M
 
 Michael is a postdoctoral researcher at the [Geomorphology Section of GFZ Potsdam](https://www.gfz-potsdam.de/en/staff/michael-dietze/). He is working on environmental seismology (utilising the seismic signals emitted by geomorphic processes to constrain Earth surface dynamics) and has become an R enthusiast about ten years ago. He has developed and contributed about ten packages covering geomorphometry, geochronology, grain-size statistics, physical modelling and environmental seismology.
 
-Sebastian is currently based in the luminescence group of the [IRAMAT-CRP2A] (http://www.iramat-crp2a.cnrs.fr/spip/) a ‘laboratoire d'excellence’ at the [Université Bordeaux Montaigne](http://www.u-bordeaux-montaigne.fr/fr/index.html) in France. He is a geographer, geochronologist (luminescence dating) and data scientist. He started working with R in 2012, when he introduced his first R package (‘Luminescence’), a powerful toolbox to handle luminescence data. Sebastian regularly co-authors the development of other R packages.
+Sebastian is currently based in the luminescence group of the [IRAMAT-CRP2A](http://www.iramat-crp2a.cnrs.fr/) a ‘laboratoire d'excellence’ at the [Université Bordeaux Montaigne](http://www.u-bordeaux-montaigne.fr/fr/index.html) in France. He is a geographer, geochronologist (luminescence dating) and data scientist. He started working with R in 2012, when he introduced his first R package (‘Luminescence’), a powerful toolbox to handle luminescence data. Sebastian regularly co-authors the development of other R packages.
 
 ## Topcis covered
 
