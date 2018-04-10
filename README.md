@@ -11,7 +11,7 @@ Michael is a postdoctoral researcher at the [Geomorphology Section of GFZ Potsda
 Sebastian is currently based in the luminescence group of the [IRAMAT-CRP2A](http://www.iramat-crp2a.cnrs.fr/) a ‘laboratoire d'excellence’ at the [Université Bordeaux Montaigne](http://www.u-bordeaux-montaigne.fr/fr/index.html) in France. He is a geographer, geochronologist specialised in luminescence dating and data scientist. He started working with R in 2011. Shortly later, in 2012, he introduced his first R package (‘Luminescence’), a powerful toolbox to handle luminescence data.
 Today, he maintains two R packages and regularly co-authors the development of other R packages.
 
-## Topcis covered
+## Topics covered
 
 The course reaches out to advanced R users that work with **R** and *RStudio* on a  regular basis, and that have already developed their functions and perhaps recognised the increasing difficulty to adequately share their work and keep track of changes and dispersion.
 
@@ -35,7 +35,7 @@ Second, and even more important, please make sure you have the following things 
      
 We will need all these items to run the course properly. We will **NOT** have time and resources (especially concerning the internet connection) to handle installations during the workshop.
 
-## Evalulation
+## Evaluation
 
 Not so much a prerequisite, but definitely an essential favour to improve the experience for future short courses. Please help us and fill a 3-4 minutes evaluation form [here](https://docs.google.com/forms/d/e/1FAIpQLSdbhcwH_-_qVA5OxJzYyRrEtbzdRF3yE49JAsAOFcYqKKCi5g/viewform).
 
