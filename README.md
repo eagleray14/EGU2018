@@ -4,8 +4,6 @@ Wed, 11 Apr, 13:30–15:00 / Room -2.16
 
 Welcome to the EGU 2018 short course on "Building and maintaining R packages". Michael Dietze and Sebastian Kreutzer may guide the course, but it will be driven by you, the audience. 
 
-Hello
-
 ### The conveners 
 
 Michael is a postdoctoral researcher at the [Geomorphology Section of GFZ Potsdam](https://www.gfz-potsdam.de/en/staff/michael-dietze/). He is working on environmental seismology (utilising the seismic signals emitted by geomorphic processes to constrain Earth surface dynamics) and has become an R enthusiast about ten years ago. He has developed and contributed about ten packages covering geomorphometry, geochronology, grain-size statistics, physical modelling and environmental seismology.
